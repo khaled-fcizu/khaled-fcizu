@@ -27,6 +27,8 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Khaled%20Badr-blue?style=flat-square&logo=linkedin&logoColor=white&link=mailto:khaledbadr.dev@gmail.com)](https://www.linkedin.com/in/khaled-badr-0325972a1)    
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=mailto:khaledbadr.dev@gmail.com)](https://www.facebook.com/share/1G8ZQ8kYcR/)  
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=mailto:khaledbadr.dev@gmail.com)](https://wa.me/201210147948)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-badr-0325972a1)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-c14438?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=khaledbadr.dev@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Follow-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1G8ZQ8kYcR/)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201210147948)
+[![CV Badge](https://img.shields.io/badge/My%20CV-View-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18MefAiWwOVkuN8oOfVWDToHdw658niwK/view?usp=drivesdk)
