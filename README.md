@@ -31,4 +31,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-c14438?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=khaledbadr.dev@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Follow-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1G8ZQ8kYcR/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201210147948)
-[![CV Badge](https://img.shields.io/badge/My%20CV-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18VYpCjLof9sZDqdANv2ly5I2TefDOSC-/view?usp=drivesdk)
+[![CV Badge](https://img.shields.io/badge/My%20CV-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cz9xdXKxjEFKjxVi0xyxWRaSAXgc3_fQ/view?usp=drive_link)
